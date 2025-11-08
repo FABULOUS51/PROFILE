@@ -4,7 +4,7 @@ import { Photograph } from './types';
 export const PHOTO_DATA: Photograph[] = [
   {
     id: 1,
-    src: "/chruch.jpg",
+    src: "https://ibb.co/N61NtP9V",
     alt: "Misty mountains at dawn",
     title: "Mountain Serenity",
     description: "The quiet calm of the mountains as the sun rises, casting a soft glow over the landscape.",
