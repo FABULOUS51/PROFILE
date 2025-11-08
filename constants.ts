@@ -13,7 +13,7 @@ export const PHOTO_DATA: Photograph[] = [
   },
   {
     id: 2,
-    src: "https://picsum.photos/seed/b2/1200/800",
+    src: "https://ibb.co/N61NtP9V",
     alt: "Bustling city street at night",
     title: "Urban Pulse",
     description: "Neon lights and motion blur capture the vibrant energy of the city after dark.",
