@@ -4,7 +4,7 @@ import { Photograph } from './types';
 export const PHOTO_DATA: Photograph[] = [
   {
     id: 1,
-    src: "https://picsum.photos/seed/a1/800/1200",
+    src: "chruch.jpg",
     alt: "Misty mountains at dawn",
     title: "Mountain Serenity",
     description: "The quiet calm of the mountains as the sun rises, casting a soft glow over the landscape.",
