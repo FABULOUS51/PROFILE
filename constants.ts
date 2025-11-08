@@ -8,7 +8,8 @@ export const PHOTO_DATA: Photograph[] = [
     alt: "Misty mountains at dawn",
     title: "Mountain Serenity",
     description: "The quiet calm of the mountains as the sun rises, casting a soft glow over the landscape.",
-    
+    width: 1200,
+    height: 800,
   },
   {
     id: 2,
