@@ -6,7 +6,7 @@ export const Hero: React.FC = () => {
         <section 
             id="hero" 
             className="h-screen flex items-center justify-center bg-cover bg-center bg-no-repeat"
-            style={{ backgroundImage: "url('https://picsum.photos/seed/hero/1920/1080')" }}
+            style={{ backgroundImage: "url('https://ibb.co/N61NtP9V')" }}
         >
             <div className="absolute inset-0 bg-black/60"></div>
             <div className="relative text-center text-white px-4 animate-fade-in-up">
